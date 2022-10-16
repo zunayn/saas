@@ -22,3 +22,7 @@ Technology Used: Django + React
 	- Invoices -> Send and manage invoices.
 	- Billing -> Manage billing and payments, easily. 
     
+
+## Other contributors:
+
+@Ubaid-Parvaiz
